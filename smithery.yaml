@@ -1,0 +1,20 @@
+name: competitorforge-mcp
+displayName: CompetitorForge - Autonomous SaaS Competitor Intelligence & Pricing Reverse Engine MCP
+description: Universal SaaS competitive intelligence and market attack engine for Cursor, Claude Code & Windsurf. Generates comprehensive competitor matrices, reverse-engineers rivals' frontend/backend tech stacks, audits pricing gaps and per-seat paywalls, and builds winning sales battlecards.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/competitorforge-mcp
+repository: https://github.com/AmyGraphics/competitorforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/competitorforge-mcp/main/icon.png
+keywords:
+  - competitor-analysis
+  - saas-intelligence
+  - pricing-strategy
+  - tech-stack-detection
+  - sales-battlecards
+  - market-research
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://competitorforge-api.agentweb-hub.workers.dev/mcp
