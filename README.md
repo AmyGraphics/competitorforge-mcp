@@ -13,6 +13,12 @@ Universal Autonomous SaaS Competitor Intelligence, Pricing Gaps & Tech-Stack Rev
 `https://competitorforge-api.agentweb-hub.workers.dev/mcp`
 
 
+## 🔴 NEW in v1.1 — Live Tool: `teardown_competitor_page_live`
+
+Fetches any competitor page live and tears it down: real title/H1 positioning read, messaging structure, proof-and-CTA scan, and a tech-stack fingerprint from the delivered HTML.
+
+No API key needed — works out of the box.
+
 ## 💰 Pricing
 
 **Start free — 10 requests/day, no signup, no card.** Upgrade only if it earns a place in your workflow.
