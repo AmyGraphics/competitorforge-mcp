@@ -47,3 +47,10 @@ Then POST your transaction signature to the `/verify-solana` endpoint to activat
 ## Evidence and monitoring
 
 Live teardowns include source URL, observed timestamp and an evidence note. Treat inferred strategy as inference; verify material changes with a fresh snapshot before acting.
+
+
+## Why this MCP is worth using
+
+Live competitor page → source URL, observation timestamp, pricing/positioning signals and evidence-backed change opportunities.
+
+This outcome is the product value; the tool count is only an implementation detail.
